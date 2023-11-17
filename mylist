@@ -1,0 +1,14 @@
+! 2023-11-15 https://science.slashdot.org
+science.slashdot.org###announcement
+
+! 2023-11-15 https://ici.radio-canada.ca
+ici.radio-canada.ca##.alert-container
+ici.radio-canada.ca##.print\:hidden
+
+! 2023-11-15 https://www.wired.com
+www.wired.com##.paywall-bar__expanded
+www.wired.com##.journey-template--paywall-bar.paywall-bar--expanded.paywall-bar-failsafe
+
+! 2023-11-17 https://en.wikipedia.org
+en.wikipedia.org##.frb-country-CA.frb-rml-enabled.frb
+en.wikipedia.org##.frb-nag-link
